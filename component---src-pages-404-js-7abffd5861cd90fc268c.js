@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{217:function(e,a,t){"use strict";t.r(a);var n=t(0),l=t.n(n),o=t(79),r=t(216),u=t(215);a.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"404: Not Found"}),l.a.createElement("h1",null,"Not Found"),l.a.createElement(o.a,{to:"/"},"Return home (",l.a.createElement("span",{role:"img","aria-label":"a small illustration of a home"},"🏡"),")"))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-7abffd5861cd90fc268c.js.map
